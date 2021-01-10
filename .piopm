@@ -1,0 +1,12 @@
+{
+  "type": "platform",
+  "name": "teensy-gcc",
+  "version": "0.1.0",
+  "spec": {
+    "owner": "skepto",
+    "id": 8021,
+    "name": "teensy-gcc",
+    "requirements": null,
+    "url": null
+  }
+}
