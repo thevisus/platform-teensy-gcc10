@@ -140,7 +140,7 @@ elif "BOARD" in env and BUILD_CORE in ("teensy3", "teensy4", "teensy41"):
             "-fno-exceptions",
             "-felide-constructors",
             "-fno-rtti",
-            "-std=gnu++17",
+            "-std=gnu++20",
             "-Wno-error=narrowing",
             "-fpermissive"
         ],
