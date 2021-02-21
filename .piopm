@@ -1,11 +1,11 @@
 {
   "type": "platform",
-  "name": "teensy-gcc",
+  "name": "teensy-gcc10",
   "version": "0.1.0",
   "spec": {
-    "owner": "skepto",
+    "owner": "visus",
     "id": 8021,
-    "name": "teensy-gcc",
+    "name": "teensy-gcc10",
     "requirements": null,
     "url": null
   }

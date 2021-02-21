@@ -17,7 +17,7 @@ from platform import system
 from platformio.managers.platform import PlatformBase
 
 
-class TeensygccPlatform(PlatformBase):
+class Teensygcc10Platform(PlatformBase):
 
     def configure_default_packages(self, variables, targets):
         if variables.get("board"):
